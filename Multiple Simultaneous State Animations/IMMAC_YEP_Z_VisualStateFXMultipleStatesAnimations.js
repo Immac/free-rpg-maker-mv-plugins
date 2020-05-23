@@ -13,7 +13,7 @@
  * Introduction
  * ============================================================================
  * If using "Yanfly Engine Plugins - Buffs & States Extension - Visual State Effects",
- * makes it so all states that have animations show on the battler.
+ * all states that have animations show on the battler.
  * Works exclusively on animations, not on overlays nor motions.
  */
 var Imported = Imported || {};

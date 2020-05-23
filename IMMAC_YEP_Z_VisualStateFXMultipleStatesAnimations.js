@@ -1,16 +1,20 @@
 //=============================================================================
-// IMMAC_YEP_Z_VisualStateFXMultipleStatesAnimations
+// Immac Plugins - Multiple States Animations
+// Extends: Yanfly Engine Visual State Effects
 // IMMAC_YEP_Z_VisualStateFXMultipleStatesAnimations.js
 //=============================================================================
 /*:
- * @plugindesc v1.0 (Requires YEP_BattleEngineCore,YEP_BuffsStatesCore and YEP_X_VisualStateFX) allows multiple animations when a battler is affected by various status effects.
+ * @plugindesc v1.0 [P&P] (Req YEP_BattleEngineCore,YEP_BuffsStatesCore,YEP_X_VisualStateFX) allows multiple animations when a battler is affected by various status effects.
  * @author Immac
  *
  * @help This plugin does not provide plugin commands.
  *
+ * ============================================================================
+ * Introduction
+ * ============================================================================
  * If using "Yanfly Engine Plugins - Buffs & States Extension - Visual State Effects",
  * makes it so all states that have animations show on the battler.
- * Works exclusiveley on animations, not on overlays nor motions.
+ * Works exclusively on animations, not on overlays nor motions.
  */
 var Imported = Imported || {};
 Imported.IMMAC_YEP_Z_VisualStateFXMultipleStates = true;
